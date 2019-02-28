@@ -1,0 +1,20 @@
+body {
+    background-color:powderblue;
+}
+h1 {
+    color:orange;
+}
+p {
+    color:rgb(29, 63, 29);
+}
+div{
+    background-color: blueviolet;
+    background-image: url("/Users/AK/Downloads/tree.jpeg");
+    font-size: 20px;
+    border: 1px;
+    border-color: cyan;
+    border-style:double
+}
+.Orders{
+    color:red
+}    
